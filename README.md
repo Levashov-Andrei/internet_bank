@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Levashov-Andrei/internet_bank/actions/workflows/.appveyor.yml/badge.svg)](https://github.com/Levashov-Andrei/internet_bank/actions/workflows/.appveyor.yml)
+[![Java CI with Gradle](https://github.com/Levashov-Andrei/internet_bank/actions/workflows/.appveyor.yml/badge.svg?branch=master)](https://github.com/Levashov-Andrei/internet_bank/actions/workflows/.appveyor.yml)
